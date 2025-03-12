@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# testekkk
-=======
-# testesx
->>>>>>> 
+# Original
